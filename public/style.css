@@ -17,7 +17,7 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: #e97617;
   color: #ffffff;
   height: 80px;
   padding: 10px;
@@ -182,8 +182,8 @@ button {
 #toast.success {
   opacity: 1;
   right: 10px;
-  background-color: hsl(94, 40%, 86%);
-  color: hsl(94, 90%, 16%);
+  background-color: hsl(286, 41%, 86%);
+  color: hsl(300, 74%, 49%);
   transition: all 1.2s;
 }
 
@@ -244,8 +244,8 @@ button {
 
 #toast.success {
   right: 10px;
-  background-color: hsl(94, 40%, 86%);
-  color: hsl(94, 90%, 16%);
+  background-color: hsl(286, 41%, 86%);
+  color: hsl(300, 74%, 49%);
   transition: all 0.5s;
 }
 .workout-type,
@@ -302,8 +302,8 @@ button {
 }
 
 #toast.success {
-  background-color: hsl(94, 40%, 86%);
-  color: hsl(94, 90%, 16%);
+  background-color: hsl(286, 41%, 86%);
+  color: hsl(300, 74%, 49%);
   animation-name: toast;
   animation-duration: 2s;
   animation-fill-mode: forwards;
@@ -358,8 +358,8 @@ form > button {
 }
 
 #toast.success {
-  background-color: hsl(94, 40%, 86%);
-  color: hsl(94, 90%, 16%);
+  background-color: hsl(286, 41%, 86%);
+  color: hsl(300, 74%, 49%);
 }
 
 .prev-workout h3 {
